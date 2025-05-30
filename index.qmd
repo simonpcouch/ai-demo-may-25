@@ -19,6 +19,7 @@ _Simon Couch_
 
 Open Source Group, R / LLMs
 
+
 ----
 
 ![](figures/examples/dealership_1.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
@@ -100,6 +101,10 @@ For example, [with vitals](https://www.simonpcouch.com/blog/2025-05-27-claude-4/
 * How good is this model at writing R code?
 * Will my shiny app built with ellmer refuse off-topic questions?
 * Did this change to Positron Assistant's prompt resolve some common issue?
+
+. . .
+
+![](figures/rng.png){.absolute top="00" left="650" width="425" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 ---
 
