@@ -110,6 +110,8 @@ For example, [with vitals](https://www.simonpcouch.com/blog/2025-05-27-claude-4/
 
 ## ...In Python?
 
+. . . 
+
 vitals is a port of the widely adopted Python framework [Inspect](https://inspect.aisi.org.uk/), from our own JJ Allaire. :)
 
 ---
