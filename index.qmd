@@ -14,6 +14,11 @@ knitr:
 
 <a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="400"/></a>
 
+<br><br><br><br><br><br><br><br><br>
+_Simon Couch_
+
+Open Source Group, R / LLMs
+
 ----
 
 ![](figures/examples/dealership_1.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
