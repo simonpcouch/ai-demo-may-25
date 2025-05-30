@@ -12,7 +12,7 @@ knitr:
     comment: "#>"
 ---
 
-<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="400"/></a>
+<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="400" style="border-radius: 10px;"/></a>
 
 <br><br><br><br><br><br><br><br><br>
 _Simon Couch_
@@ -22,19 +22,19 @@ Open Source Group, R / LLMs
 
 ----
 
-![](figures/examples/dealership_1.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/dealership_1.png){.absolute top="20" left="250" width="450" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
-![](figures/examples/dealership_2.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/dealership_2.png){.absolute top="20" left="250" width="450" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
-![](figures/examples/dealership_3.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/dealership_3.png){.absolute top="20" left="250" width="450" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
-![](figures/examples/dealership_4.png){.absolute top="20" left="100" width="900" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/dealership_4.png){.absolute top="20" left="100" width="900" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
@@ -45,15 +45,15 @@ This is called "off-topic detection"
 
 ----
 
-![](figures/examples/sycophant_1.png){.absolute top="20" left="100" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/sycophant_1.png){.absolute top="20" left="100" width="400" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
-![](figures/examples/sycophant_2.png){.absolute top="220" left="100" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/sycophant_2.png){.absolute top="220" left="100" width="400" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . .
 
-![](figures/examples/sycophant_3.png){.absolute top="20" left="550" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/examples/sycophant_3.png){.absolute top="20" left="550" width="400" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 . . . 
 
@@ -92,7 +92,7 @@ For example, [with vitals](https://www.simonpcouch.com/blog/2025-05-27-claude-4/
 
 ---
 
-<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="200"/></a>
+<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="200" style="border-radius: 10px;"/></a>
 
 <br><br>
 
@@ -104,7 +104,7 @@ For example, [with vitals](https://www.simonpcouch.com/blog/2025-05-27-claude-4/
 
 . . .
 
-![](figures/rng.png){.absolute top="00" left="650" width="425" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+![](figures/rng.png){.absolute top="00" left="650" width="425" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
 
 ---
 
