@@ -1,6 +1,6 @@
-# AI Demos, May 2025
+# AI Demos, May 2025 <a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="400"/></a>
 
-Source code and slides for my slot in the Posit AI demos session.
+Source code and slides for my slot in the Posit AI demos session on [vitals](https://vitals.tidyverse.org/).
 
 I mentioned a few works in this demo:
 
