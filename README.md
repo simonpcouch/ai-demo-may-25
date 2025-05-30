@@ -12,7 +12,7 @@ First, projects that are on CRAN and/or have entries on the Posit Blog:
 
 | Package | Gist | Status | Learn More | In Python |
 |---------|------|---------|------------|-----------|
-| ![chores](figures/hexes/chores.png) | Automate repetitive R coding tasks | On CRAN since early 2025 | ["Introducing chores"](https://posit.co/blog/introducing-chores/) on the Posit Blog | ["Slash Commands"](https://docs.continue.dev/customize/deep-dives/slash-commands) from the Continue plugin are mostly the same thing |
+| ![chores](figures/hexes/chores.png) | Automate repetitive R coding tasks                  | On CRAN since early 2025                | ["Introducing chores"](https://posit.co/blog/introducing-chores/) on the Posit Blog                 | ["Slash Commands"](https://docs.continue.dev/customize/deep-dives/slash-commands) from the Continue plugin are mostly the same thing              |
 | ![gander](figures/hexes/gander.png) | Inline edits / autocomplete *that knows about R objects* | On CRAN since early 2025 | ["Introducing gander"](https://posit.co/blog/introducing-gander/) on the Posit Blog | Can't name any, but I can only assume there are a good few. |
 
 ---
