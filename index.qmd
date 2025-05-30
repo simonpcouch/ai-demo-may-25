@@ -1,0 +1,115 @@
+---
+title: ""
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    footer: '<span style="color:#aa5b31;">github.com/simonpcouch/ai-demo-may-25</span>'
+editor: source
+knitr:
+  opts_chunk: 
+    echo: true
+    collapse: true
+    comment: "#>"
+---
+
+<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="400"/></a>
+
+----
+
+![](figures/examples/dealership_1.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+![](figures/examples/dealership_2.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+![](figures/examples/dealership_3.png){.absolute top="20" left="250" width="450" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+![](figures/examples/dealership_4.png){.absolute top="20" left="100" width="900" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+This is called "off-topic detection"
+
+----
+
+----
+
+![](figures/examples/sycophant_1.png){.absolute top="20" left="100" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+![](figures/examples/sycophant_2.png){.absolute top="220" left="100" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . .
+
+![](figures/examples/sycophant_3.png){.absolute top="20" left="550" width="400" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);"}
+
+. . . 
+
+<br><br><br><br><br><br><br><br><br><br>
+This is called "sycophancy."
+
+# What do these examples have in common?
+
+## What do these examples have in common?
+
+::: {.incremental}
+- Nobody wants to be that dealership
+- There's an _eval_ for that
+:::
+
+## Model evaluation
+
+...or, more commonly, "eval"
+
+::: {.incremental}
+- Ensure that models (or systems based on them) behave as intended
+- Sort of like "unit tests" for LLM-based systems
+:::
+
+## Model evaluation {.nostretch}
+
+For example, from the [Claude 4 release post](https://www.anthropic.com/news/claude-4):
+
+![](figures/claude_4.png){width="70%" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);" fig-align="center"}
+
+## Model evaluation {.nostretch}
+
+For example, [with vitals](https://www.simonpcouch.com/blog/2025-05-27-claude-4/):
+
+![](figures/are.png){width="70%" style="border-radius: 10px; box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);" fig-align="center"}
+
+---
+
+<a href="https://vitals.tidyverse.org/"><img src="figures/hexes/vitals.png" alt="The hex sticker for the vitals package: a teddy bear in blue scrubs happily holding a stethoscope." align="left" height="200"/></a>
+
+<br><br>
+
+  Answer questions like:
+
+* How good is this model at writing R code?
+* Will my shiny app built with ellmer refuse off-topic questions?
+* Did this change to Positron Assistant's prompt resolve some common issue?
+
+---
+
+## ...In Python?
+
+vitals is a port of the widely adopted Python framework [Inspect](https://inspect.aisi.org.uk/), from our own JJ Allaire. :)
+
+---
+
+## Learn more: 
+
+<br><br><br>
+
+<span style="font-size:130%">
+
+<center>[github.com/simonpcouch/ai-demo-may-25]{style="color:#c46938;"}</center>
+
+</span>

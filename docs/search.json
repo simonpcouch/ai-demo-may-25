@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html#what-do-these-examples-have-in-common-1",
+    "href": "index.html#what-do-these-examples-have-in-common-1",
+    "title": "",
+    "section": "What do these examples have in common?",
+    "text": "What do these examples have in common?\n\n\nNobody wants to be that dealership\nThere’s an eval for that"
+  },
+  {
+    "objectID": "index.html#model-evaluation",
+    "href": "index.html#model-evaluation",
+    "title": "",
+    "section": "Model evaluation",
+    "text": "Model evaluation\n…or, more commonly, “eval”\n\n\nEnsure that models (or systems based on them) behave as intended\nSort of like “unit tests” for LLM-based systems"
+  },
+  {
+    "objectID": "index.html#model-evaluation-1",
+    "href": "index.html#model-evaluation-1",
+    "title": "",
+    "section": "Model evaluation",
+    "text": "Model evaluation\nFor example, from the Claude 4 release post:"
+  },
+  {
+    "objectID": "index.html#model-evaluation-2",
+    "href": "index.html#model-evaluation-2",
+    "title": "",
+    "section": "Model evaluation",
+    "text": "Model evaluation\nFor example, with vitals:"
+  },
+  {
+    "objectID": "index.html#in-python",
+    "href": "index.html#in-python",
+    "title": "",
+    "section": "…In Python?",
+    "text": "…In Python?\nvitals is a port of the widely adopted Python framework Inspect, from our own JJ Allaire. :)"
+  },
+  {
+    "objectID": "index.html#learn-more",
+    "href": "index.html#learn-more",
+    "title": "",
+    "section": "Learn more:",
+    "text": "Learn more:\n\n\n\ngithub.com/simonpcouch/ai-demo-may-25"
+  }
+]
